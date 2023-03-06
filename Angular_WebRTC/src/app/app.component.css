@@ -1,0 +1,10 @@
+.sidenav-container {
+  height: 100%;
+  color: black;
+
+}
+mat-toolbar{
+  color: black;
+  background-color: blue;
+  height: 100px;
+}
